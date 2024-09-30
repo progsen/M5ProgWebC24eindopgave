@@ -8,7 +8,7 @@ Voor de eindopdracht gaan we een kleine database driven site maken
 - pak 1 van de drie casussen waar een klant een site wil
     - casus/A boekenwinkel.md
     - casus/B party ticket shop.md
-    - casus/C .md
+    - casus/C scrumbord.md
 - werk die casus uit
 - let op je security
 - gebruik zoveel mogelijk van wat je geleerd hebt zodat je dat kan laten zien wat je geleerd hebt
